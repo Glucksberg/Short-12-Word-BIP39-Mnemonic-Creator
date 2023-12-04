@@ -7,3 +7,5 @@ This script generates mnemonic phrases and checks their lengths.
 
 Run the following command to install required packages:
 pip install -r requirements.txt
+
+Para rodar no windows cmd, digitar o comando python seed5.py no diretório onde está o arquivo por ex: 
